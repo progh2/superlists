@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3262412560">
+    <data-source source="LOCAL" name="Django default" uuid="9ebb791d-93a4-4927-b275-f6c4289faf50">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/superlists/settings.py</remarks>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\dev\superlists\db.sqlite3</jdbc-url>
+      <explain-plan-config>
+        <provider>com.intellij.database.plan.ExplainPlanProvider.NullExplainPlanProvider</provider>
+      </explain-plan-config>
+    </data-source>
+    <data-source source="LOCAL" name="Django default2" uuid="955323ef-4fde-4abd-ab9f-000413e64ec8">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/superlists/settings.py</remarks>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\dev\superlists\db.sqlite3</jdbc-url>
+      <explain-plan-config>
+        <provider>com.intellij.database.plan.ExplainPlanProvider.NullExplainPlanProvider</provider>
+      </explain-plan-config>
+    </data-source>
+  </component>
+</project>
